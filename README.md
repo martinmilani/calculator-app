@@ -1,3 +1,14 @@
+# Calculator App
+
+Refactored freeCodeCapm Project (Calculator App) with react hooks and material-ui
+
+![Calculator](/public/calculator-app.jpg)
+
+
+Live Version - [Calculator-app](https://calculator-app-63f2b.web.app/)
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
